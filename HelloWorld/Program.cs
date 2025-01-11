@@ -1,8 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿namespace HelloWorld;
 
-namespace HelloWorld;
-
-public class Program()
+public abstract class Program()
 {
     public static void Main()
     {
