@@ -1,16 +1,17 @@
 # Overview
 This assignment demonstrates a foundational knowledge of software development and GitHub remote repository storage and sharing.
-
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
+The creation of Hello World program is a classic method to teach new programmers the basic structure of a programming language,
+and offers an excellent debugging tool for learning new IDE's and compilers. For this purpose I have created a simple
+Hello World program in C#, using the built-in `Console.WriteLine()` method for output.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-To create this program, I used C# language with the basic libraries available in the standard library.
+To create this program, I used C# language with the basic libraries available in the standard library. This program was built
+in JetBrains Rider out of preference for the simple development environment.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Hello World C# Tutorial](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials/hello-world)
+* [JetBrains Rider Beginner Tutorial](https://www.jetbrains.com/help/rider/Introduction.html)
