@@ -1,0 +1,15 @@
+C:\Users\nicho\Documents\Programming\College\CSE310-WI25\HelloWorld\Hello-World\HelloWorld\bin\Debug\net8.0\HelloWorld.exe
+C:\Users\nicho\Documents\Programming\College\CSE310-WI25\HelloWorld\Hello-World\HelloWorld\bin\Debug\net8.0\HelloWorld.deps.json
+C:\Users\nicho\Documents\Programming\College\CSE310-WI25\HelloWorld\Hello-World\HelloWorld\bin\Debug\net8.0\HelloWorld.runtimeconfig.json
+C:\Users\nicho\Documents\Programming\College\CSE310-WI25\HelloWorld\Hello-World\HelloWorld\bin\Debug\net8.0\HelloWorld.dll
+C:\Users\nicho\Documents\Programming\College\CSE310-WI25\HelloWorld\Hello-World\HelloWorld\bin\Debug\net8.0\HelloWorld.pdb
+C:\Users\nicho\Documents\Programming\College\CSE310-WI25\HelloWorld\Hello-World\HelloWorld\obj\Debug\net8.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicho\Documents\Programming\College\CSE310-WI25\HelloWorld\Hello-World\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\nicho\Documents\Programming\College\CSE310-WI25\HelloWorld\Hello-World\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfo.cs
+C:\Users\nicho\Documents\Programming\College\CSE310-WI25\HelloWorld\Hello-World\HelloWorld\obj\Debug\net8.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\nicho\Documents\Programming\College\CSE310-WI25\HelloWorld\Hello-World\HelloWorld\obj\Debug\net8.0\HelloWorld.sourcelink.json
+C:\Users\nicho\Documents\Programming\College\CSE310-WI25\HelloWorld\Hello-World\HelloWorld\obj\Debug\net8.0\HelloWorld.dll
+C:\Users\nicho\Documents\Programming\College\CSE310-WI25\HelloWorld\Hello-World\HelloWorld\obj\Debug\net8.0\refint\HelloWorld.dll
+C:\Users\nicho\Documents\Programming\College\CSE310-WI25\HelloWorld\Hello-World\HelloWorld\obj\Debug\net8.0\HelloWorld.pdb
+C:\Users\nicho\Documents\Programming\College\CSE310-WI25\HelloWorld\Hello-World\HelloWorld\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
+C:\Users\nicho\Documents\Programming\College\CSE310-WI25\HelloWorld\Hello-World\HelloWorld\obj\Debug\net8.0\ref\HelloWorld.dll
